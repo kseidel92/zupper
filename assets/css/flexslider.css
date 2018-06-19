@@ -69,8 +69,8 @@ html[xmlns] .slides {display: block;}
 .flex-control-nav {margin: auto;display: table;margin-top: 30px;}
 .flex-control-nav li {margin: 0 5px; float:left;}
 .flex-control-paging li a {width: 15px;height: 15px;display: block;background: #E6E9EE;cursor: pointer;text-indent: -9999px;-webkit-border-radius: 5px;-moz-border-radius: 5px;-o-border-radius: 5px;border-radius: 5px;}
-.flex-control-paging li a:hover {background: #9cd05f; }
-.flex-control-paging li a.flex-active {  background: #9cd05f; cursor: default; }
+.flex-control-paging li a:hover {background: #63ab0f; }
+.flex-control-paging li a.flex-active {  background: #63ab0f; cursor: default; }
 
 
 
